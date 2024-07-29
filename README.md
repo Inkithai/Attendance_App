@@ -47,3 +47,14 @@ To get a local copy of the project up and running, follow these steps:
     - Start Apache and MySQL servers in XAMPP.
     - Access the application via your web browser at `http://localhost/Attendance-App`.
 
+## Login Credentials
+
+To log in to the system, use the following credentials:
+
+- **Employee Login:**
+  - **Email:** user1@gmail.com
+  - **Password:** User1123
+
+- **Admin Login:**
+  - **Email:** admin@gmail.com
+  - **Password:** Admin123
