@@ -25,7 +25,7 @@ To get a local copy of the project up and running, follow these steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/Inkithai/Attendance_App.git
     ```
 
 2. **Navigate to the project directory:**
